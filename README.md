@@ -1,2 +1,2 @@
 # Casptone-Web 
-Proyecto elavorado para el curso de Desarrollo Web
+Proyecto elaborado para el curso de Desarrollo Web
